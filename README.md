@@ -10,6 +10,7 @@
 
 
 <img width="1440" alt="Screenshot 2024-06-23 at 1 38 24 PM" src="https://github.com/amanullahmd12/images-portfolio/assets/92320933/ac4a5f4b-945b-4a59-b746-d3c477712b28">
+<img width="1436" alt="Screenshot 2024-06-23 at 1 49 31 PM" src="https://github.com/amanullahmd12/images-portfolio/assets/92320933/9723aa8b-bff1-44c2-a88e-5ba5a41ddc80">
 
 
 <img width="1437" alt="Screenshot 2024-06-23 at 1 38 42 PM" src="https://github.com/amanullahmd12/images-portfolio/assets/92320933/eb1bd3bc-8828-432b-96f0-65fd5eb8acbd">
